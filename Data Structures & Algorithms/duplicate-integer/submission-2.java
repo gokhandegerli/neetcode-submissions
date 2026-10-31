@@ -12,3 +12,4 @@ class Solution {
         return false;      
     }
 }
+// O(n.logn) ve O(1)
